@@ -12,9 +12,9 @@ Currently studying **HTML, CSS and JavaScript**, always pushing my skills furthe
 
 - 📚 Constantly learning and evolving  
 - 🧠 Focused on real-world projects (not just tutorials)  
-- 🏆 Winner of a programming competition with 20k+ developers  
-- 🎯 Goal: Turn programming into a real source of income  
-
+- 🏆 Winner of a programming competition on a platform with 20k+ developers  
+- 🎯 Goal: Turn programming into a real source of income
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -28,7 +28,7 @@ Currently studying **HTML, CSS and JavaScript**, always pushing my skills furthe
 ## 📂 Featured Projects
 
 🔹 [TagFlow](https://erick-rocha-web.github.io/Tag-Flow/)  
-Project that won a competition among 20,000+ developers  
+Project that won a competition on a platform with 20k+ developers   
 
 🔹 [Portfolio Website](https://erick-rocha-web.github.io/-/)  
 My personal website  
