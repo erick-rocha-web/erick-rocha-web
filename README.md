@@ -4,7 +4,7 @@ I'm Erick Rocha
 💻 Developer in training | 16 years old  
 
 I’m focused on building real projects that solve real problems.  
-Currently studying **HTML, CSS and JavaScript**, always pushing my skills further.
+Currently studying **Front-end**, always pushing my skills further.
 
 ---
 
