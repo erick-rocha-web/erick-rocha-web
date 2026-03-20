@@ -65,8 +65,7 @@ Creative and interactive project
 
 ## 📫 Contact
 
-- 📧 erick.rocha.web@gmail.com  
-- 📱 WhatsApp: +55 61 98364-5763  
+- 📧 erick.rocha.web@gmail.com   
 
 ---
 
