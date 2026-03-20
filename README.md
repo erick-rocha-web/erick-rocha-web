@@ -48,24 +48,18 @@ Creative and interactive project
 
 ---
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=erick-rocha-web&theme=tokyonight)
-
----
-
 ## 🎯 Professional Goals
 
-- 💰 Start making money with programming  
 - 🏢 Work with real clients and local businesses  
 - 🌐 Build high-conversion websites  
 - 📈 Grow as a full-stack developer in the future  
-
+- 💰 Start making money with programming
+  
 ---
 
 ## 🌐 Portfolio
 
-👉 https://erick-rocha-web.github.io/
+👉 under maintenance
 
 ---
 
