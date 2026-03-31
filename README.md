@@ -60,7 +60,7 @@ Currently studying **Front-end**, expanding into **full-stack development**.
 
 ## 📂 Featured Projects
 
-🔹 [TagFlow](https://erick-rocha-web.github.io/Tag-Flow/)  
+🔹 [TagFlow](https://erick-rocha-web.github.io/Tag-Flow/) 
 Project that won a competition on a platform with 20k+ developers   
 
 🔹 [Portfolio Website](https://erick-rocha-web.github.io/Portfolio/)  
@@ -84,7 +84,8 @@ Creative and interactive project
 
 ## 🌐 Portfolio
 
-👉 under maintenance
+👉 🔹 [Portfolio Website](https://erick-rocha-web.github.io/Portfolio/)  
+My personal website  
 
 ---
 
